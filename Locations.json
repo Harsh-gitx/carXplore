@@ -9,7 +9,7 @@
 },
   { "Audi":[
 
-    , { "name" :"Audi Bengaluru" , "location": "Survey No.6/1, Beratana Agrahara, Hosur Rd, Electronic City, Bengaluru, Karnataka 560100",
+    { "name" :"Audi Bengaluru" , "location": "Survey No.6/1, Beratana Agrahara, Hosur Rd, Electronic City, Bengaluru, Karnataka 560100",
       "phone":" 080 4517 0000"
     },
     { "name" :"Audi Approved Plus" , "location": " N0.61-62 & 65/A, Elevated Expressway Toll Gate NH -07, Hosur Main Road, post, Electronic City Phase II, Electronic City, Bengaluru, Karnataka 560100",
@@ -41,8 +41,7 @@
     
    { "Jaquar": [
     
-{ "name" :"Jaquar Orientation Centre
-" , "location": "No 10, VN Street, Tasker Town, Shivaji Nagar, Bengaluru, Karnataka 560051",
+{ "name" :"Jaquar Orientation Centre" , "location": "No 10, VN Street, Tasker Town, Shivaji Nagar, Bengaluru, Karnataka 560051",
       "phone":"080 4909 9100"
     },
 { "name" :"Jaquar Authorised Dealer, Hemadri Ceramics" , "location": "Shop No 11/3, AGN Arcade, Hosur Rd, Bommanahalli, Bengaluru, Karnataka 560068",
@@ -78,7 +77,7 @@
 { "name" :"Trident Hyundai Car Service Centre, Indiranagar" , "location": "540, Koramangala Indiranagar Ring Rd, Krishna Reddy Layout, Amarjyoti Layout, Domlur, Bengaluru, Karnataka 560071",
       "phone":"080 4343 3888"
     }
-]}
+]},
   {"Ford":[
 { "name" :"JSP Ford Dealers in Bangalore" , "location": "688, 15th Cross Rd, Jeewan Griha Colony, 2nd Phase, J. P. Nagar, Bengaluru, Karnataka 560078",
       "phone":"090229 11392"
@@ -145,7 +144,7 @@
       
     }  ]},
     
-    {"name":"Volkswagen": [
+    {"Volkswagen": [
      { "name" :"Volkswagen Bengaluru Central" , "location": "Classic Building, No. 24/5, Richmond Rd, Shanthala Nagar, Bengaluru, Karnataka 560025",
       "phone":"096069 88828"
       
@@ -220,7 +219,7 @@
       "phone":"080 4530 6090"
       },{ "name" :"SHAHWAR NISSAN" , "location": "Nandi Durga Road, 24/48, MM Road, Jayamahal Extension, Bengaluru, Karnataka 560046",
       "phone":"080 4530 6090"
-      
+        }
       ]},
       {"JEEP": [
       { "name" :"KHT Prime JEEP" , "location": "Service Rd, APMC Yard, Yesvantpur Industrial Suburb, Mahalakshmi Layout, Bengaluru, Karnataka 560022",
@@ -229,10 +228,6 @@
       "phone":"084949 00002"
       }, { "name" :"Kht prime" , "location": "92/93, 100 Feet Rd, Amarjyoti Layout, Domlur, Bengaluru, Karnataka 560071",
       "phone":"080 4530 6090"
-      } ]}
-      
-      }
-      
-    
+      } ]}   
          ]
 }
