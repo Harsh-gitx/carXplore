@@ -1,7 +1,8 @@
 {
   "Locations":[ { "BMW":[
     { "name" :"BMW Navnit Motors | Main Showroom | Electronic City" , "location": "No.4, Konappanna Agrahara Near Electronic City, Hosur Road Begur, Uttarahalli Hobli, Bengaluru, Karnataka 560100",
-      "phone":"080 2852 0060"
+      "phone":"080 2852 0060",
+  "loc":"https://www.google.com/maps/place/BMW+Navnit+Motors+%7C+Main+Showroom+%7C+Electronic+City/@12.8624043,77.5897209,12z/data=!4m8!1m2!2m1!1sbmw+showroom+near+me!3m4!1s0x3bae6ca1346703e3:0x2bf8c2ef25dc2027!8m2!3d12.8624043!4d77.6597587"     
     },
      { "name" :"BMW Navnit Motors | City Showroom | Lavelle Road" , "location": "No - 2, (Old No - 4 Prestige Emerald, Ground Floor, Madras Bank Road, Lavelle Road, Bengaluru, Karnataka 560001",
       "phone":"080 2222 4544"
