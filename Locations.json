@@ -72,7 +72,7 @@
  
 { "name" :"Advaith Hyundai Car Showroom - Bannerghatta Road" , "location": "No 44, New No 1-5, Old, 1 A, Bannerghatta Main Rd, Mico Layout, Bengaluru, Karnataka 560029",
       "phone":"078130 32426",
- ,"loc":"https://www.google.com/maps/place/Advaith+Hyundai+Car+Showroom+-+Bannerghatta+Road/@12.9261881,77.6098148,13z/data=!4m8!1m2!2m1!1shyundai+showroom!3m4!1s0x3bae15b16e548255:0x96089e60b03cccd3!8m2!3d12.9298179!4d77.600845"
+"loc":"https://www.google.com/maps/place/Advaith+Hyundai+Car+Showroom+-+Bannerghatta+Road/@12.9261881,77.6098148,13z/data=!4m8!1m2!2m1!1shyundai+showroom!3m4!1s0x3bae15b16e548255:0x96089e60b03cccd3!8m2!3d12.9298179!4d77.600845"
  
     },
 { "name" :"Advaith Hyundai - Digital Car Showroom Koramangala" , "location": " #SN1, 80 Feet Road, 8th Block, opposite to Passport office, Koramangala,, Bengalu, Bengaluru, Karnataka 560095",
@@ -137,8 +137,8 @@
       "loc":"https://www.google.com/maps/place/Maruti+Suzuki+Service,+Nagawara+Palya/@12.9788715,77.6760912,14z/data=!4m8!1m2!2m1!1smaruthi+show+room+near+me!3m4!1s0x3bae1149efb91f41:0x38f97be1695dc960!8m2!3d12.9922505!4d77.6601463"
     }, { "name" :"Maruti Stores" , "location": "Dr Kuvempu Rd, KSFC Layout, Lingarajapuram, Bengaluru, Karnataka 560084",
       "phone":"096060 12710",
-        "https://www.google.com/maps/place/Maruti+Stores/@13.0100165,77.6337309,16z/data=!4m8!1m2!2m1!1smaruthi+stores+lingarajapuram!3m4!1s0x3bae16def2efeaf1:0x22a326d6d95cd825!8m2!3d13.0102!4d77.6341528"
-        "loc":"
+        "loc":"https://www.google.com/maps/place/Maruti+Stores/@13.0100165,77.6337309,16z/data=!4m8!1m2!2m1!1smaruthi+stores+lingarajapuram!3m4!1s0x3bae16def2efeaf1:0x22a326d6d95cd825!8m2!3d13.0102!4d77.6341528"
+       
     }, { "name" :"Maruthi Motors" , "location": "53, Kammanahalli Main Rd, Near-Laksmi Mandhir, Chinnappa Layout, Ramaiah Layout, Kammanahalli, Bengaluru, Karnataka 560084",
       "phone":"080 2544 2742",
         "loc":"https://www.google.com/maps/place/Maruti+Suzuki+ARENA+(Bimal+Auto+Agency,+Bengaluru,+Old+Airport+Road)/@12.9788692,77.6759196,14z/data=!4m8!1m2!2m1!1smaruthi+show+room+near+me!3m4!1s0x3bae1419114df515:0xf2e2ea7cf9d71c9b!8m2!3d12.959438!4d77.656618"
@@ -272,7 +272,7 @@
       { "name" :"SHAHWAR NISSAN" , "location": "19, Kasturba Rd, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001",
       "phone":" 088611 99777",
        "https://www.google.com/maps/place/SHAHWAR+NISSAN+(SERVICE)/@12.9894671,77.5838256,15z/data=!4m8!1m2!2m1!1sKIAcar+showroom!3m4!1s0x3bae1650551e1883:0x10495a17e25b06d2!8m2!3d13.0040895!4d77.5992041"
-      }{ "name" :"SHAHWAR NISSAN" , "location": "Nandi Durga Road, 24/48, MM Road, Jayamahal Extension, Bengaluru, Karnataka 560046",
+      },{ "name" :"SHAHWAR NISSAN" , "location": "Nandi Durga Road, 24/48, MM Road, Jayamahal Extension, Bengaluru, Karnataka 560046",
       "phone":"080 4530 6090",
         "loc":"https://www.google.com/maps/place/SHAHWAR+NISSAN+-+BANGALORE+(KASTURBA+ROAD)/@12.9894665,77.5837397,15z/data=!4m8!1m2!2m1!1snissan+showrrom+jayamahal!3m4!1s0x3bae165054fce4f3:0x289a5c686661205e!8m2!3d13.004!4d77.599"
         }
