@@ -5,230 +5,288 @@
   "loc":"https://www.google.com/maps/place/BMW+Navnit+Motors+%7C+Main+Showroom+%7C+Electronic+City/@12.8624043,77.5897209,12z/data=!4m8!1m2!2m1!1sbmw+showroom+near+me!3m4!1s0x3bae6ca1346703e3:0x2bf8c2ef25dc2027!8m2!3d12.8624043!4d77.6597587"     
     },
      { "name" :"BMW Navnit Motors | City Showroom | Lavelle Road" , "location": "No - 2, (Old No - 4 Prestige Emerald, Ground Floor, Madras Bank Road, Lavelle Road, Bengaluru, Karnataka 560001",
-      "phone":"080 2222 4544"
+      "phone":"080 2222 4544",
+      "loc":"https://www.google.com/maps/place/BMW+Navnit+Motors+%7C+City+Showroom+%7C+Lavelle+Road/@13.0044623,77.6034362,12z/data=!4m8!1m2!2m1!1sbmw+showroom+near+me!3m4!1s0x3bae1679d8341295:0x6dcbdeb46f322f!8m2!3d12.9728406!4d77.5994644"
     } ]
 },
   { "Audi":[
 
     { "name" :"Audi Bengaluru" , "location": "Survey No.6/1, Beratana Agrahara, Hosur Rd, Electronic City, Bengaluru, Karnataka 560100",
-      "phone":" 080 4517 0000"
+      "phone":" 080 4517 0000",
+"loc":"https://www.google.com/maps/place/Audi+Bengaluru/@12.865541,77.5872173,12z/data=!4m8!1m2!2m1!1sAudi+showroom+near+me!3m4!1s0x3bae6ca6f7e879d1:0x9c84eaee21da42f5!8m2!3d12.865541!4d77.6572551"
     },
     { "name" :"Audi Approved Plus" , "location": " N0.61-62 & 65/A, Elevated Expressway Toll Gate NH -07, Hosur Main Road, post, Electronic City Phase II, Electronic City, Bengaluru, Karnataka 560100",
-      "phone":"080 2852 1115"
+      "phone":"080 2852 1115",
+     
+"loc":"https://www.google.com/maps/place/Audi+Approved+Plus/@12.853924,77.5960372,12z/data=!4m8!1m2!2m1!1sAudi+showroom+near+me!3m4!1s0x3bae6c8cb9e84c1f:0x9e301e7cdfd7c00b!8m2!3d12.853924!4d77.666075"
     },
     { "name" :"Audi Bengaluru Central" , "location": " Municipal No.1 and 2, UB Plaza, Vittal Mallya Rd, Bengaluru, Karnataka 560001",
-      "phone":"080 4288 0000"
+      "phone":"080 4288 0000",
+     "loc":"https://www.google.com/maps/place/Audi+Bengaluru+Central/@13.004406,77.6024057,12z/data=!4m8!1m2!2m1!1sAudi+showroom+near+me!3m4!1s0x3bae167719e6de89:0x594ecf18582991f0!8m2!3d12.9701398!4d77.6005955"
+
     } 
 ]},
 
 { "Benz": [ 
 
     { "name" :"Akshaya Motors (Mercedes Benz) - Koramangala" , "location": "4th Block, No 107/3, 80 Feet Rd, Koramangala 4th Block, Koramangala, Bengaluru, Karnataka 560034",
-      "phone":"091085 35484"
+      "phone":"091085 35484",
+     "loc":"https://www.google.com/maps/place/Akshaya+Motors+(Mercedes+Benz)+-+Koramangala/@13.0043497,77.6013753,12z/data=!4m8!1m2!2m1!1sBenz+showroom+near+me!3m4!1s0x3bae144396e8f4d3:0x92f77e5eda12e3b2!8m2!3d12.9355882!4d77.6282846"
     },
     { "name" :"Akshaya Motors (Mercedes Benz) - Koramangala" , "location": " No. 77/1, Mysore Rd, opp. R V College of Engineering, Dubasi Palya, Valagerehalli, Bengaluru, Karnataka 560059",
-      "phone":"091085 35297"
+      "phone":"091085 35297",
+     "loc":"https://www.google.com/maps/place/Akshaya+Motors+(Mercedes+Benz)+-+Mysore+Road/@13.0043873,77.6020622,12z/data=!4m8!1m2!2m1!1sBenz+showroom+near+me!3m4!1s0x3bae3ee6c14d141b:0x6155c91d8b4afe10!8m2!3d12.92394!4d77.497205"
     },
     { "name" :"Sundaram Motors" , "location": " 107, Kasturba Rd, opp. Venkatappa Art Gallery, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001",
-      "phone":"080 2207 0700"
+      "phone":"080 2207 0700",
+     "loc":"https://www.google.com/maps/place/Sundaram+Motors/@13.0043685,77.6017188,12z/data=!4m8!1m2!2m1!1sBenz+showroom+near+me!3m4!1s0x3bae1670a7ea7235:0x40bfbcc81ab244f0!8m2!3d12.9737831!4d77.5962186"
     },
     
-    { "name" :"Benz-In" , "location": " 4A, Ground Floor, Public Utility Building,, MG Road, Bengaluru, Karnataka 560001",
-      "phone":"082772 39639"
-    },
     { "name" :"Barath Benz Bangalore" , "location": "344, Chelekare, Kalyan Nagar, Bengaluru, Karnataka 560043",
-      "phone":"073537 57337"
+      "phone":"073537 57337",
+     "loc":"https://www.google.com/maps/place/Barath+Benz+Bangalore/@13.0043309,77.6010318,12z/data=!4m8!1m2!2m1!1sBenz+showroom+near+me!3m4!1s0x3bae17255125e985:0x347f44d1b9cf84a9!8m2!3d13.025482!4d77.64175"
     } ]},
     
    { "Jaquar": [
     
 { "name" :"Jaquar Orientation Centre" , "location": "No 10, VN Street, Tasker Town, Shivaji Nagar, Bengaluru, Karnataka 560051",
-      "phone":"080 4909 9100"
+      "phone":"080 4909 9100",
+ "loc":"https://www.google.com/maps/place/Jaquar+Orientation+Centre/@12.9262067,77.6105016,13z/data=!4m8!1m2!2m1!1sjaquar+showroom!3m4!1s0x3bae1666783f98db:0x709b1d0ad760c630!8m2!3d12.9844346!4d77.6008135"
     },
 { "name" :"Jaquar Authorised Dealer, Hemadri Ceramics" , "location": "Shop No 11/3, AGN Arcade, Hosur Rd, Bommanahalli, Bengaluru, Karnataka 560068",
-      "phone":"088844 22502"
+      "phone":"088844 22502",
+ "loc":"https://www.google.com/maps/place/Jaquar+Authorised+Dealer,+Hemadri+Ceramics/@12.9262021,77.6103299,13z/data=!4m8!1m2!2m1!1sjaquar+showroom!3m4!1s0x3bae157289950e63:0xd2039339b5f6e7eb!8m2!3d12.9031875!4d77.6313125"
     },
 { "name" :"Jaquar Authorised Dealer, Sri Mahesh Ceramics" , "location": "Shop No 205, Bommanahalli Hosur Main Road Next Girias, Bengaluru, Karnataka 560068",
       "phone":"080 4092 8668"
+ ,"loc":"https://www.google.com/maps/place/Jaquar+Authorised+Dealer,+Hemadri+Ceramics/@12.9261974,77.6101582,13z/data=!4m8!1m2!2m1!1sjaquar+showroom!3m4!1s0x3bae157289950e63:0xd2039339b5f6e7eb!8m2!3d12.9031875!4d77.6313125"
+ 
     },
 { "name" :"Jaquar Authorised Dealer, P.C.Sampath & Co." , "location": " Millia Building, 1/1, NR Road, Bengaluru, Karnataka 560002",
       "phone":"080 2222 3392"
-    },
-{ "name" :"Jaquar Orientation Centre" , "location": " No 10, VN Street, Tasker Town, Shivaji Nagar, Bengaluru, Karnataka 560051",
-      "phone":"080 4909 9100"
+ ,"loc":"https://www.google.com/maps/place/Jaquar+Authorised+Dealer,+P.C.Sampath+%26+Co./@12.9261927,77.6099865,13z/data=!4m8!1m2!2m1!1sjaquar+showroom!3m4!1s0x3bae15c00896edff:0x6711cf4c254c7ec2!8m2!3d12.9634639!4d77.5782918"
+ 
     } ]},
 
 { "Hyundai": [
  
 { "name" :"Advaith Hyundai Car Showroom - Bannerghatta Road" , "location": "No 44, New No 1-5, Old, 1 A, Bannerghatta Main Rd, Mico Layout, Bengaluru, Karnataka 560029",
-      "phone":"078130 32426"
+      "phone":"078130 32426",
+ ,"loc":"https://www.google.com/maps/place/Advaith+Hyundai+Car+Showroom+-+Bannerghatta+Road/@12.9261881,77.6098148,13z/data=!4m8!1m2!2m1!1shyundai+showroom!3m4!1s0x3bae15b16e548255:0x96089e60b03cccd3!8m2!3d12.9298179!4d77.600845"
+ 
     },
 { "name" :"Advaith Hyundai - Digital Car Showroom Koramangala" , "location": " #SN1, 80 Feet Road, 8th Block, opposite to Passport office, Koramangala,, Bengalu, Bengaluru, Karnataka 560095",
       "phone":" 097310 97310"
+  ,"loc":"https://www.google.com/maps/place/Advaith+Hyundai+-+Digital+Car+Showroom+Koramangala/@12.9261834,77.6096431,13z/data=!4m8!1m2!2m1!1shyundai+showroom!3m4!1s0x3bae1447e36b2941:0xb955f0e9be7b685!8m2!3d12.944981!4d77.619515"
+
     },
 
-{ "name" :"Advaith Hyundai - Digital Car Showroom Koramangala" , "location": " #SN1, 80 Feet Road, 8th Block, opposite to Passport office, Koramangala,, Bengalu, Bengaluru, Karnataka 560095",
-      "phone":" 099020 98865"
-    },
 { "name" :"Advaith Hyundai Car Showroom, Residency Road" , "location": "#32, Residency Rd, opp. Hotel Gateway, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560025",
       "phone":"  078130 32424"
+  ,"loc":"https://www.google.com/maps/place/Advaith+Hyundai+Car+Showroom,+Residency+Road/@12.9261694,77.609128,13z/data=!4m8!1m2!2m1!1shyundai+showroom!3m4!1s0x3bae1680af3caad9:0x6d194fb57c33412!8m2!3d12.9728334!4d77.6083231"
+
     }
     ,
     
 { "name" :"Trident Hyundai Car Service Centre, Indiranagar" , "location": "540, Koramangala Indiranagar Ring Rd, Krishna Reddy Layout, Amarjyoti Layout, Domlur, Bengaluru, Karnataka 560071",
       "phone":"080 4343 3888"
+  ,"loc":"https://www.google.com/maps/place/Trident+Hyundai+Car+Showroom,+Indiranagar/@12.9261741,77.6092997,13z/data=!4m8!1m2!2m1!1shyundai+showroom!3m4!1s0x3bae140508b10053:0xe2c197b3cbad1855!8m2!3d12.960697!4d77.644005"
+
     }
 ]},
   {"Ford":[
 { "name" :"JSP Ford Dealers in Bangalore" , "location": "688, 15th Cross Rd, Jeewan Griha Colony, 2nd Phase, J. P. Nagar, Bengaluru, Karnataka 560078",
       "phone":"090229 11392"
+  ,"loc":"https://www.google.com/maps/place/JSP+Ford+Dealers+in+Bangalore/@12.9261647,77.6089563,13z/data=!4m8!1m2!2m1!1sfordshowroom!3m4!1s0x3bae1511168ba1d1:0xdd25978513ef2cd6!8m2!3d12.90648!4d77.5925233"
     },
 { "name" :"Cauvery Ford Car Showroom & Service" , "location": "2 , Pete Chennappa Industrial Estate, Magadi Main Rd, Kamakshipalya, Bengaluru, Karnataka 562109",
       "phone":"090229 05904"
+  ,"loc":"https://www.google.com/maps/place/Advaith+Hyundai+Car+Showroom+-+Bannerghatta+Road/@12.9261881,77.6098148,13z/data=!4m8!1m2!2m1!1shyundai+showroom!3m4!1s0x3bae15b16e548255:0x96089e60b03cccd3!8m2!3d12.9298179!4d77.600845"
+
     }
     ,
     { "name" :"PPS Ford | Ford Showroom in Bangalore" , "location": "Near ETA, Star Apartment, 2, Binnyston Garden, Magadi Main Rd, Binnipete, Bengaluru, Karnataka 560023",
       "phone":"080 4343 3888"
+      ,"loc":"https://www.google.com/maps/place/PPS+Ford+%7C+Ford+Showroom+in+Bangalore/@12.9400419,77.6082696,13z/data=!4m8!1m2!2m1!1sfordshowroom!3m4!1s0x3bae1731179657c7:0x9c8c2b3d2585acca!8m2!3d12.9753753!4d77.5977921"
+
     },
     { "name" :"Cauvery Ford" , "location": "SN 1, 80 Feet Rd, Koramangala 8th Block, Koramangala, Bengaluru, Karnataka 560095",
       "phone":"099306 09681"
+      ,"loc":"https://www.google.com/maps/place/Cauvery+Ford/@12.9261601,77.6087846,13z/data=!4m8!1m2!2m1!1sfordshowroom!3m4!1s0x3bae1447fd214d51:0xc5138fe04efc7a4f!8m2!3d12.945041!4d77.619403"
+
     }, { "name" :"Metro Ford" , "location": "No 113, St. Thomas Town, 1st Main Rd, Lingarajapuram, Bengaluru, Karnataka 560084",
       "phone":"090229 16652"
+         ,"loc":"https://www.google.com/maps/place/Metro+Ford/@12.9261507,77.6084412,13z/data=!4m8!1m2!2m1!1sfordshowroom!3m4!1s0x3bae16e38bf8cc87:0x9205c9fa9e7879ce!8m2!3d13.0085182!4d77.6230275"
     } ]},
     {"Mahindra": [
      { "name" :"Mahindra First Choice Wheels Limited- Superior Motors" , "location": "Superior Motors, 17/3, Swamy Vivekananda Rd, H Colony, Indiranagar, Bengaluru, Karnataka 560038",
-      "phone":"095905 61768"
+      "phone":"095905 61768",
+     "loc":"https://www.google.com/maps/place/MAHINDRA+FIRST+CHOICE+Wheels+Ltd./@12.9788721,77.6914605,17z/data=!3m1!4b1!4m5!3m4!1s0x3bae117be0255f59:0x3107873f1df87838!8m2!3d12.9788721!4d77.6936545"
     },
      { "name" :"NAFS Motors - Mahindra MOJO Exclusive Showroom & Service Station" , "location": "112/1, 100 Feet Rd, Opposite Post Office, Dodda Banaswadi, Bengaluru, Karnataka 560043",
       "phone":" 088610 83251"
+      ,"loc":"https://www.google.com/maps/place/NAFS+Motors+-+Mahindra+MOJO+Exclusive+Showroom+%26+Service+Station/@12.9833373,77.6302785,13z/data=!4m8!1m2!2m1!1smahindra+showroom!3m4!1s0x0:0x41aec6524df2fc86!8m2!3d13.0171123!4d77.6515067"
     }, { "name" :"Indel Motors (Mahindra Cars)" , "location": " Indel Motors (PMPL) , No 189, 80ft Road, Indiranagar Double Rd, Bengaluru, Karnataka 560038",
-      "phone":"096060 12710"
+      "phone":"096060 12710",
+        "loc":"https://www.google.com/maps/place/Indel+Motors+(Mahindra+Cars)/@12.9833373,77.6302785,13z/data=!4m8!1m2!2m1!1smahindra+showroom!3m4!1s0x0:0xf24c1d9a11cb048c!8m2!3d12.9766867!4d77.636261"
     }
     ]},
     { "Maruthi": [
      { "name" :"Maruti Suzuki Service, Nagawara Palya" , "location": " RMZ Infinity, # 4C, Jolly Estate, Opp, Swamy Vivekananda Rd, Nagavarapalya, Bengaluru, Karnataka 560093",
-      "phone":"091081 44229"
+      "phone":"091081 44229",
+      "loc":"https://www.google.com/maps/place/Maruti+Suzuki+Service,+Nagawara+Palya/@12.9788715,77.6760912,14z/data=!4m8!1m2!2m1!1smaruthi+show+room+near+me!3m4!1s0x3bae1149efb91f41:0x38f97be1695dc960!8m2!3d12.9922505!4d77.6601463"
     }, { "name" :"Maruti Stores" , "location": "Dr Kuvempu Rd, KSFC Layout, Lingarajapuram, Bengaluru, Karnataka 560084",
-      "phone":"096060 12710"
+      "phone":"096060 12710",
+        "https://www.google.com/maps/place/Maruti+Stores/@13.0100165,77.6337309,16z/data=!4m8!1m2!2m1!1smaruthi+stores+lingarajapuram!3m4!1s0x3bae16def2efeaf1:0x22a326d6d95cd825!8m2!3d13.0102!4d77.6341528"
+        "loc":"
     }, { "name" :"Maruthi Motors" , "location": "53, Kammanahalli Main Rd, Near-Laksmi Mandhir, Chinnappa Layout, Ramaiah Layout, Kammanahalli, Bengaluru, Karnataka 560084",
-      "phone":"080 2544 2742"
+      "phone":"080 2544 2742",
+        "loc":"https://www.google.com/maps/place/Maruti+Suzuki+ARENA+(Bimal+Auto+Agency,+Bengaluru,+Old+Airport+Road)/@12.9788692,77.6759196,14z/data=!4m8!1m2!2m1!1smaruthi+show+room+near+me!3m4!1s0x3bae1419114df515:0xf2e2ea7cf9d71c9b!8m2!3d12.959438!4d77.656618"
     },
      { "name" :"Maruti Suzuki ARENA (Kalyani Motors, Bengaluru, Banaswadi)" , "location": "No. 12, Dodda Banaswadi Main Road, Outer Ring Rd, Vijaya Bank Colony, Banasawadi, Bengaluru, Karnataka 560043",
-      "phone":"080 4683 7068"
+      "phone":"080 4683 7068",
+      "loc":"https://www.google.com/maps/place/Maruti+Suzuki+ARENA+(Bimal+Auto+Agency,+Bengaluru,+Old+Airport+Road)/@12.9788692,77.6759196,14z/data=!4m8!1m2!2m1!1smaruthi+show+room+near+me!3m4!1s0x3bae1419114df515:0xf2e2ea7cf9d71c9b!8m2!3d12.959438!4d77.656618"
     }  ]},
   { "SKODA": [
      { "name" :"ŠKODA Showroom" , "location": "No 53, St Marks Rd, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001",
-      "phone":"078742 23333"
-    } ,
-     { "name" :"General Automobiles" , "location": "38, 2nd Cross, Journalist Colony, Near-Journalist Colony, J C Road, Bengaluru, Karnataka 560002",
-      "phone":"080 4124 9211"
-    } ,
+      "phone":"078742 23333",
+      "loc":"https://www.google.com/maps/place/%C5%A0KODA+Showroom/@12.9746875,77.5970232,16z/data=!4m8!1m2!2m1!1sskoda+showroom!3m4!1s0x3bae16792310e53b:0xdd261bd8db2a51aa!8m2!3d12.9746875!4d77.6014006"
+    }  ,
      { "name" :"Skoda Service Center" , "location": "5, Lal Bagh Main Rd, K.S. Garden, Vinobha Nagar, Sudhama Nagar, Bengaluru, Karnataka 560002",
       "phone":"084481 86484"
-      
+      ,
+      "loc":"https://www.google.com/maps/place/Skoda+Service+Center/@12.9583236,77.5820384,16z/data=!4m8!1m2!2m1!1sskoda+showroom!3m4!1s0x3bae15dda4a3a569:0xc7f1d2c7fd8543d!8m2!3d12.9583236!4d77.5864158"
     } ,
      { "name" :"Skoda Service Center" , "location": "House Apartments, No 35, Sarvagana Road, near Ranka Nest, Okalipuram, Srirampura, Bengaluru, Karnataka 560021",
-      "phone":"080678 31111"
+      "phone":"080678 31111",
+      "loc":"https://www.google.com/maps/place/Skoda+Service+Center/@12.9787849,77.7013431,16z/data=!4m8!1m2!2m1!1sskoda+showroom!3m4!1s0x3bae11f93f8e057d:0x3e8df70e1f568d06!8m2!3d12.9787849!4d77.7057205"
       
     } ]},
     { "Tata": [
      { "name" :"Tata Motors Limited" , "location": "Kantha Court, 132, Lal Bagh Main Rd, Bengaluru, Karnataka 560027",
-      "phone":"080 4113 5105"
+      "phone":"080 4113 5105",
+      "loc":"https://www.google.com/maps/place/Tata+Motors+Limited/@12.95959,77.5693123,14z/data=!4m8!1m2!2m1!1stata+showroom!3m4!1s0x3bae15de632dcd0b:0xdfca64e76c2a9dfa!8m2!3d12.95959!4d77.5868218"
       
     } ,
      { "name" :"Tata Motors Limited" , "location": "No. 9/8, Hosur Road Division No. 63, Near, Dairy Circle, Bengaluru, Karnataka 560029",
-      "phone":"080666 78200"
+      "phone":"080666 78200",
+      "loc":"https://www.google.com/maps/place/Tata+Motors+Limited/@12.9459335,77.5781996,14z/data=!4m8!1m2!2m1!1stata+showroom!3m4!1s0x3bae159bed1e6d7b:0x536b1a532e45e230!8m2!3d12.9459335!4d77.5957091"
       
     } ,
      { "name" :"TATA MOTORS LIMITED" , "location": " 14th Floor, Canberra Block UB City, 24, Vittal Mallya Road, Bengaluru, Karnataka 560001",
-      "phone":"080663 73400"
+      "phone":"080663 73400",
+      "loc":"https://www.google.com/maps/place/TATA+MOTORS+LIMITED/@12.9715895,77.578549,14z/data=!4m8!1m2!2m1!1stata+showroom!3m4!1s0x3bae16775c3d3baf:0x8edffdc2c6f98c!8m2!3d12.9715895!4d77.5960585"
       
     }  ]},
     
     {"Volkswagen": [
      { "name" :"Volkswagen Bengaluru Central" , "location": "Classic Building, No. 24/5, Richmond Rd, Shanthala Nagar, Bengaluru, Karnataka 560025",
-      "phone":"096069 88828"
+      "phone":"096069 88828",
+      "loc":"https://www.google.com/maps/place/Volkswagen+Bengaluru+Central/@12.9715848,77.5782057,14z/data=!4m8!1m2!2m1!1svolkswagen+showroom!3m4!1s0x3bae154aea84c557:0x8c65ef92a9a0abe4!8m2!3d12.965735!4d77.599581"
       
     } ,
      { "name" :"Volkswagen Palace Cross" , "location": "Door No, 104, Thyagi M Palanivelu Rd, Officers Colony, Agram, Bengaluru, Karnataka 560047",
-      "phone":"099000 87524"
+      "phone":"099000 87524",
+      "loc":"https://www.google.com/maps/place/Volkswagen+Palace+Cross/@12.9715883,77.5784632,14z/data=!4m8!1m2!2m1!1svolkswagen+showroom!3m4!1s0x3bae142892c7e4e3:0x68d7f5337cb42a91!8m2!3d12.9646973!4d77.6178064"
       
     },
      { "name" :"Volkswagen Palace Cross" , "location": "VST Vistas, 1, Palace Cross Rd, Chandavarkar Layout, Chakravarthy Layout, Military Compound, Jayamahal, Bengaluru, Karnataka 560020",
-      "phone":"096866 01249"
+      "phone":"096866 01249",
+      "loc":"https://www.google.com/maps/place/Volkswagen+Palace+Cross/@12.9715872,77.5783774,14z/data=!4m8!1m2!2m1!1svolkswagen+showroom!3m4!1s0x3bae16471a670e77:0xa3b3b7d52a5f3498!8m2!3d12.9973978!4d77.5856699"
       
     },
      { "name" :"Volkswagen Bangalore (JP Nagar)" , "location": "No: 608, Ground Floor, Ring Road, 15th Cross Rd, JP Nagar 6th Phase, Bengaluru, Karnataka 560078",
-      "phone":"091080 89495"
+      "phone":"091080 89495",
+      "loc":"https://www.google.com/maps/place/Volkswagen+Bangalore+(JP+Nagar)/@12.971586,77.5782915,14z/data=!4m8!1m2!2m1!1svolkswagen+showroom!3m4!1s0x3bae15c9325e7843:0x8c4141b7966c7c49!8m2!3d12.9062625!4d77.5767255"
       
     }]},
     
     { "volvo": [
     { "name" :"Martial Motors Volvo Cars" , "location": "Mobile - 96060 80080, Lotus Towers, No.34, Race Course Rd, Madhava Nagar, Gandhi Nagar, Bengaluru, Karnataka 560001",
-      "phone":" 080 4545 1414"
+      "phone":" 080 4545 1414",
+     "loc":"https://www.google.com/maps/place/Martial+Motors+Volvo+Cars/@12.9841143,77.5792506,17z/data=!3m1!4b1!4m5!3m4!1s0x3bae16147b016fff:0xb9f02871fcbfb8b1!8m2!3d12.9841143!4d77.5814446"
       
     },
-    { "name" :"Volvo Group India Private Limited" , "location": "65/2, Tridib Building, Bagamani Tech Park, C V Raman Nagar, Bengaluru, Karnataka 560075",
-      "phone":"080673 05000"
-      
+    { "name" :"VOLVO Service center, Bangalore" , "location": "arjapur Main Rd, Dommasandra, Bengaluru, Karnataka 562125",
+      "phone":"080 4400 2000",
+     "loc":"https://www.google.com/maps/place/VOLVO+Service+center,+Bangalore/@12.9161706,77.5995648,12z/data=!4m8!1m2!2m1!1svolvo+showroom+nea+rme!3m4!1s0x3bae72b2427c167b:0x58b40bad40806d60!8m2!3d12.8808552!4d77.7581091"
     } ]},
     { "Renault": [
    { "name" :"Renault JP Nagar" , "location": "# 613/A, 15Th Cross, 33Rd Main, Outer Ring Rd, Bengaluru, Karnataka 560078",
-      "phone":"088844 98996"
+      "phone":"088844 98996",
+    "loc":"https://www.google.com/maps/place/Renault+JP+Nagar/@12.916152,77.5992213,12z/data=!4m8!1m2!2m1!1srenault+near+me!3m4!1s0x3bae156c481d9aff:0x9e575358a66c893f!8m2!3d12.9065157!4d77.580577"
       
     },
-    { "name" :"Renault Service Station" , "location": "60 Feet Rd, Keb Layout, Madiwala, 1st Stage, BTM Layout 1, Bengaluru, Karnataka 560029",
-      "phone":"088844 98996"
+    { "name" :"Renault Mysore Road" , "location": "Survey No 18/1B (Old No. 18/1C), Pandtrapalya Nayandahalli Grama, ITI Layout 3rd Phase, Kenchenhalli, Kengeri Hobli, Bengaluru, Karnataka 560039",
+      "phone":"073537 04111",
+    "loc":"https://www.google.com/maps/place/Renault+Mysore+Road/@12.916096,77.5981908,12z/data=!4m8!1m2!2m1!1srenault+near+me!3m4!1s0x0:0x676748e1b96c1aa2!8m2!3d12.9360768!4d77.5161195"
       
     },
     { "name" :"Renault Silk Board showroom and Service" , "location": "No. 33/445, 30/6G4 & 31/1, Hosur Rd, Muneswara Nagar, Roopena Agrahara, Bommanahalli, Bengaluru, Karnataka 560068",
-      "phone":"088844 98997"
+      "phone":"088844 98997",
+     "loc":"https://www.google.com/maps/place/Renault+Silk+Board+showroom+and+Service/@12.9161147,77.5985343,12z/data=!4m8!1m2!2m1!1srenault+near+me!3m4!1s0x3bae14f227bcb4db:0x2e27763eaa9c70db!8m2!3d12.9141073!4d77.6251062"
       
     },
     { "name" :"Renault Silk Board" , "location": "33/445/30/6b, 31/1, Hosur Rd, Roopena Agrahara, Bommanahalli, Bengaluru, Karnataka 560068",
-      "phone":"918884498997"
+      "phone":"918884498997",
+     "loc":"https://www.google.com/maps/place/Renault+Silk+Board/@12.9161333,77.5988778,12z/data=!4m8!1m2!2m1!1srenault+near+me!3m4!1s0x3bae14ec0fd63f99:0xa18c15272800f6c3!8m2!3d12.9072469!4d77.62584"
       
     } ]},
     
     {"Porsche":[
     { "name" :"Porsche Centre Bengaluru" , "location": "28, Lavelle Road, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001",
-      "phone":" 088840 00911"
+      "phone":" 088840 00911",
+     "loc":"https://www.google.com/maps/place/Porsche+Centre+Bengaluru/@12.9689138,77.6138374,15z/data=!4m8!1m2!2m1!1sporsche!3m4!1s0x3bae167bcd8702bb:0x7fcdd8012611e24b!8m2!3d12.9738837!4d77.5992963"
       
-    } ]},
+    },
+      { "name" :"Porsche Service Centre Bengaluru" , "location": "16th D Main Rd, HAL 2nd Stage, Kodihalli, Bengaluru, Karnataka 560068",
+      "phone":"080 4151 1911",
+     "loc":"https://www.google.com/maps/place/Porsche+Service+Centre+Bengaluru/@12.9689135,77.6137945,15z/data=!4m8!1m2!2m1!1sporsche!3m4!1s0x3bae144b29ea8def:0x6af679640a9b2e7c!8m2!3d12.9639441!4d77.645931"      
+    }
+    
+    ]},
     {"Land Rover" :[
     { "name" :"Land Rover Marqland" , "location": "No. 32/5, Rupena Agrahara, Hosur Rd, Bommanahalli, Bengaluru, Karnataka 560068",
-      "phone":" 080 4309 9999"
+      "phone":" 080 4309 9999",
+"loc":"https://www.google.com/maps/place/Land+Rover+Marqland,+Hosur+Road,+Sector+6,+Bommanahalli,+Bengaluru,+Karnataka/@12.9689135,77.6137945,15z/data=!4m5!3m4!1s0x3bae14ed97ea6b75:0x1b364169448f3810!8m2!3d12.9109119!4d77.6270366"
       },
     { "name" :"Land Rover Marqland" , "location": "Cunningham Rd, Vasanth Nagar, Bengaluru, Karnataka 560052",
-      "phone":"096866 60230"
+      "phone":"096866 60230",
+     "loc":"https://www.google.com/maps/place/Land+Rover+%7C+Marqland/@12.9894687,77.5906331,17z/data=!3m1!4b1!4m5!3m4!1s0x3bae17a14cd76a15:0xece75e415d64749e!8m2!3d12.9894687!4d77.5928271"
       } ]},
       
       {"Jaquar": [
-    { "name" :"Jaguary Land Rover Cars | Airport Road Bangalore" , "location": "Sy.No.8/2 Venkatala, Near Bagalur Cross, Yelahanka, Bengaluru, Karnataka 560064",
-      "phone":"099000 52762"
+    { "name" :"Jaguar | Marqland" , "location": "Cunningham Rd, Vasanth Nagar, Bengaluru, Karnataka 560052",
+      "phone":"096866 60230",
+     "loc":"https://www.google.com/maps/place/Jaguar+%7C+Marqland/@12.9894679,77.5839543,15z/data=!4m8!1m2!2m1!1sjaquar+car+showroom!3m4!1s0x3bae176b4d805b53:0xf5883429f40d1edc!8m2!3d12.9894536!4d77.5928379"
       }
       ]},
       { "KIA": [
       { "name" :"Advaith Kia Car Showroom in Bangalore" , "location": "No.71, Lal Bagh Main Rd, Opp Urvashi Theater, Sudhama Nagar, Bengaluru, Karnataka 560027",
-      "phone":"063663 55119"
+      "phone":"063663 55119",
+       "loc":"https://www.google.com/maps/place/Advaith+Kia+Car+Showroom+in+Bangalore/@12.9569603,77.5773798,15z/data=!4m8!1m2!2m1!1sKIAcar+showroom!3m4!1s0x3bae1510b2f7328f:0xc88084c04c3c31df!8m2!3d12.9569603!4d77.5861345"
       }, { "name" :"NAARA KIA - JPNagar Car Showroom" , "location": "No 8, 24th Main Rd, 1st Phase, J. P. Nagar, Bengaluru, Karnataka 560078",
-      "phone":"074065 28200"
+      "phone":"074065 28200",
+          "loc":"https://www.google.com/maps/place/NAARA+KIA+-+JPNagar+Car+Showroom/@12.9083677,77.5767538,15z/data=!4m8!1m2!2m1!1sKIAcar+showroom!3m4!1s0x3bae15e3c0b0fcb7:0x1d852aac5d74ccfb!8m2!3d12.9083677!4d77.5855085"
       },
       { "name" :"SHAHWAR NISSAN" , "location": "19, Kasturba Rd, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001",
-      "phone":" 088611 99777"
-      },{ "name" :"Nissan Motors" , "location": "Sulthangunta, Shivaji Nagar, Bengaluru, Karnataka 560051",
-      "phone":"080 4530 6090"
-      },{ "name" :"SHAHWAR NISSAN" , "location": "Nandi Durga Road, 24/48, MM Road, Jayamahal Extension, Bengaluru, Karnataka 560046",
-      "phone":"080 4530 6090"
+      "phone":" 088611 99777",
+       "https://www.google.com/maps/place/SHAHWAR+NISSAN+(SERVICE)/@12.9894671,77.5838256,15z/data=!4m8!1m2!2m1!1sKIAcar+showroom!3m4!1s0x3bae1650551e1883:0x10495a17e25b06d2!8m2!3d13.0040895!4d77.5992041"
+      }{ "name" :"SHAHWAR NISSAN" , "location": "Nandi Durga Road, 24/48, MM Road, Jayamahal Extension, Bengaluru, Karnataka 560046",
+      "phone":"080 4530 6090",
+        "loc":"https://www.google.com/maps/place/SHAHWAR+NISSAN+-+BANGALORE+(KASTURBA+ROAD)/@12.9894665,77.5837397,15z/data=!4m8!1m2!2m1!1snissan+showrrom+jayamahal!3m4!1s0x3bae165054fce4f3:0x289a5c686661205e!8m2!3d13.004!4d77.599"
         }
       ]},
       {"JEEP": [
       { "name" :"KHT Prime JEEP" , "location": "Service Rd, APMC Yard, Yesvantpur Industrial Suburb, Mahalakshmi Layout, Bengaluru, Karnataka 560022",
-      "phone":"084949 00002"
+      "phone":"084949 00002",
+       "loc":"https://www.google.com/maps/place/KHT+Prime+JEEP,+Service+Rd,+APMC+Yard,+Yesvantpur+Industrial+Suburb,+Mahalakshmi+Layout,+Bengaluru,+Karnataka+560022/@12.9894593,77.5571959,13z/data=!4m5!1m2!2m1!1sJEEP+showrrom+!3m1!1s0x3bae3d6ef10b0051:0x38c91708299c6247"
       }, { "name" :"Jeep showroom" , "location": " Rose Garden, JP Nagar Phase 6, J. P. Nagar, Bengaluru, Karnataka 560078",
-      "phone":"084949 00002"
-      }, { "name" :"Kht prime" , "location": "92/93, 100 Feet Rd, Amarjyoti Layout, Domlur, Bengaluru, Karnataka 560071",
-      "phone":"080 4530 6090"
+      "phone":"084949 00002",
+          "loc":"https://www.google.com/maps/place/PPS+Jeep+Showroom+Bangalore/@12.9894499,77.5568525,13z/data=!4m8!1m2!2m1!1sJEEP+showrrom+!3m4!1s0x3bae43e2db0b1c59:0xa9f4381e5188a664!8m2!3d12.904981!4d77.573539"
+      }, { "name" :"KHT Agencies Private Limited - Showroom" , "location": "Plot No: 92, 100 Feet Road, Amarjyothi Layout, Domlur, Kormanagala Irr, Domlur I Stage, Serenity Layout, Domlur, Bengaluru, Karnataka 560071",
+      "phone":"080 4530 6090",
+          "loc":"https://www.google.com/maps/place/KHT+Agencies+Private+Limited+-+Showroom/@12.904981,77.5385201,13z/data=!4m8!1m2!2m1!1sJEEP+showrrom+!3m4!1s0x3bae1410228d9409:0xa85dd5b57be1c272!8m2!3d12.9566601!4d77.6415802"
       } ]}   
          ]
 }
